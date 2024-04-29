@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Week-One-Code-Challenge/static/css/main.5b1008bf.css",
+    "main.js": "/React-Week-One-Code-Challenge/static/js/main.101917a8.js",
+    "static/js/453.d3943c81.chunk.js": "/React-Week-One-Code-Challenge/static/js/453.d3943c81.chunk.js",
+    "index.html": "/React-Week-One-Code-Challenge/index.html",
+    "main.5b1008bf.css.map": "/React-Week-One-Code-Challenge/static/css/main.5b1008bf.css.map",
+    "main.101917a8.js.map": "/React-Week-One-Code-Challenge/static/js/main.101917a8.js.map",
+    "453.d3943c81.chunk.js.map": "/React-Week-One-Code-Challenge/static/js/453.d3943c81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b1008bf.css",
+    "static/js/main.101917a8.js"
+  ]
+}
